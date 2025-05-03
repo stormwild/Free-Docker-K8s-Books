@@ -100,3 +100,4 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * [Kubernetes指南](https://kubernetes.feisky.xyz/)
 * [Kubernetes 基础教程](https://jimmysong.io/book/kubernetes-handbook/)
 * [K8S训练营](https://www.qikqiak.com/k8strain/)
+* [Kuboard_Kubernetes教程_K8S安装_管理界面](https://kuboard.cn/)
